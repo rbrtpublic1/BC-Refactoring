@@ -12,10 +12,18 @@ The criteria for this job ticket example was to refactor an existing website to 
 
 ---
 
+## Deployed Link
+
+[https://rbrtpublic1.github.io/BC-Refactoring/](https://rbrtpublic1.github.io/BC-Refactoring/)
+
+---
+
 ## Technologies Used
 
 - HTML
 - CSS
+- Git
+- GitHub
 
 ---
 
@@ -68,7 +76,7 @@ The criteria for this job ticket example was to refactor an existing website to 
 
 Robert Schramm
 
-- [GitHub](https://github.com/rbrtpublic1)
+- https://github.com/rbrtpublic1/BC-Refactoring
 
 - [LinkedIn](https://www.linkedin.com/in/robertwschramm/)
 
