@@ -67,6 +67,7 @@ The criteria for this job ticket example was to refactor an existing website to 
 ## README Author Links
 
 Robert Schramm
+
 - [GitHub](https://github.com/rbrtpublic1)
 
 - [LinkedIn](https://www.linkedin.com/in/robertwschramm/)
