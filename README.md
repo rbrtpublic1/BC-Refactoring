@@ -1,2 +1,1 @@
-# BC-Refactoring
-BootCamp Refactoring
+# refactoring-example-site
