@@ -37,14 +37,14 @@ The criteria for this job ticket example was to refactor an existing website to 
 
 ## Code Snippets
 
-- Within HTML
+- Within HTML the commenting indicates enhancements made - example below:
 
 ```html
 <!-- Semantics Enhancement: div to section -->
 <!-- Accessibility Enhancement: alt="Online Reputation Management Pitch"> -->
 <section id="online-reputation-management" class="online-reputation-management" alt="Online Reputation Management Pitch">
     <!-- Accessibility Enhancement: alt="Online Reputation Managment" -->
-    <img src="./assets/images/online-reputation-management.jpg" alt="Online Reputation Managment" class="float-right" />
+    <img src="./assets/images/online-reputation-management.jpg" alt="Client sees dramatic increase in online reputation" class="float-right" />
         <h2>Online Reputation Management</h2>
             <p>
                 The web is full of opinions, and some of these can be negative. 
@@ -56,7 +56,7 @@ The criteria for this job ticket example was to refactor an existing website to 
 </section>
 ```
 
-- Within CSS
+- Within CSS the commenting also indicates enhancements made - example below:
 
 ```css
 /* Consolidated .search-engine-optimization, .online-reputation-management, .social-media-marketing css entries */
@@ -82,4 +82,5 @@ Robert Schramm
 
 ## Website Owner
 
-&copy; 2019 Horiseon Social Solution Services, Inc.
+&copy; 2019 Horiseon Social Solution Services, Inc. / 
+UC Berkeley Coding Bootcamp
