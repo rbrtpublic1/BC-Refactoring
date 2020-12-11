@@ -20,10 +20,10 @@ The criteria for this job ticket example was to refactor an existing website to 
 
 ## Technologies Used
 
-- HTML
-- CSS
-- Git
-- GitHub
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
 
 ---
 
